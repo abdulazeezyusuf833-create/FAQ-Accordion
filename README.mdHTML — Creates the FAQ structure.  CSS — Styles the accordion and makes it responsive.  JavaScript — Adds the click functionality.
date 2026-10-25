@@ -1,0 +1,23 @@
+HTML — Creates the FAQ structure.
+
+CSS — Styles the accordion and makes it responsive.
+JavaScript — Adds the click functionality.
+const — Declares a variable that cannot be reassigned.
+
+document.querySelectorAll() — Selects all HTML elements matching a CSS selector.
+
+forEach() — Loops through each selected question.
+
+addEventListener() — Runs a function when a click event occurs.
+
+function — Defines a reusable block of code that performs a task.
+
+parentElement — Gets the parent HTML element of the clicked question.
+
+querySelector() — Finds the first matching element inside another element.
+
+classList.toggle() — Adds a CSS class if absent or removes it if present.
+
+classList.contains() — Checks whether an element has a particular CSS class.
+
+textContent — Changes the text displayed inside an HTML element.
